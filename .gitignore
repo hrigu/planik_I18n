@@ -1,0 +1,8 @@
+experiment
+doc
+test/account.yaml
+*~
+*.gem
+.rvmrc
+.idea
+.bundle
